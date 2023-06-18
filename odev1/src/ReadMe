@@ -1,0 +1,18 @@
+#Öğrenci Notu Hesaplama Uygulaması
+
+Bir öğrenci notu hesaplama uygulaması yapmanız isteniyor. Öğrencilerin adını, vize notunu ve
+final notunu alarak ders notlarını hesaplayan bir Java programı yazmanız isteniyor. Aşağıdaki
+kurallara göre öğrencilerin harf notlarını hesaplayan ve ekrana yazdıran bir program tasarlayınız:
+ Vize notunun %40'ı, final notunun %60'ı alınarak genel not hesaplanır.
+ Hesaplanan genel notlara göre aşağıdaki harf notları atanır:
+o Genel not 90 veya üzeri ise harf notu 'AA'
+o Genel not 80-89 arasında ise harf notu 'BA'
+o Genel not 70-79 arasında ise harf notu 'BB'
+o Genel not 60-69 arasında ise harf notu 'CB'
+o Genel not 50-59 arasında ise harf notu 'CC'
+o Genel not 40-49 arasında ise harf notu 'DC'
+o Genel not 30-39 arasında ise harf notu 'DD'
+o Genel not 0-29 arasında ise harf notu 'FF'
+ Program, kullanıcıdan öğrenci sayısını alacak ve her öğrenci için adını, vize notunu ve
+final notunu girecektir. Daha sonra her bir öğrenci için genel not ve harf notu
+hesaplanacak ve ekrana yazdırılacaktır.
