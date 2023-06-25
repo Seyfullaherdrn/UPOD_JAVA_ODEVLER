@@ -1,0 +1,25 @@
+                                      Proje Açıklaması
+=> Kullanıcıdan bir Scanner nesnesi oluşturarak gerekli girişler talep edilmelidir. Bu girişler,
+hangi sorunun çözüleceğini (asallık kontrolü, Fibonacci serisi, mükemmel sayı kontrolü)
+ve çözüm için gerekli diğer parametreleri (örneğin, Fibonacci serisinin kaç terimini
+hesaplamak istediklerini) belirlemek için kullanılmalıdır.
+=> Kullanıcıdan alınan girişlere bağlı olarak belirtilen işlemi gerçekleştirmek için bir döngü
+oluşturulmalıdır. Bu döngü, girişe bağlı olarak belirli bir sayıda iterasyon yapmalı veya
+belirli bir koşul karşılandığında sona ermelidir.
+
+ASAL SAYI
+
+Kullanıcıdan alınan bir sayının asal olup olmadığını kontrol eden bir program yazın. Asal
+sayı, yalnızca 1 ve kendisiyle tam bölünebilen bir sayıdır.
+
+FİBONACCİ SAYILARI
+
+Fibonacci serisinin ilk N terimini hesaplayan bir program yazın. Fibonacci serisi, her
+sayının kendisinden önceki iki sayının toplamı olduğu bir sayı dizisidir. İlk iki terim 0 ve
+1'dir.(4 terimli dizi : 0 1 1 2 )
+
+MÜKEMMEL SAYI
+
+Bir sayının "mükemmel" olup olmadığını kontrol eden bir program yazın. Bir sayının
+mükemmel olması için, pozitif bölenlerinin (kendisi hariç) toplamının o sayıya eşit olması
+gerekir. Örneğin, 6 mükemmel bir sayıdır (1 + 2 + 3 = 6).
