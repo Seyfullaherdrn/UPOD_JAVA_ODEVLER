@@ -1,0 +1,10 @@
+                               ASAL SAYI
+
+ Pozitif tam sayılar kümesinde bu şekilde kendisinden ve 1’den başka böleni olmayan, 2 ve 2’den büyük birçok sayı vardır.Bu sayılara “asal sayı” denir.
+ Örneğin 10 sayısı 1, 2 ve 5 sayıları ile bölünebilirken, 11 sayısı sadece 1 ve 11 yani kendisi ile bölünebilir. Pozitif tam sayılar kümesinde bu şekilde kendisinden ve 1’den başka böleni olmayan birçok sayı vardır.
+ İlk on asal sayı 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 biçiminde sıralanır.
+ Girilen bir sayıya kadar olan asal sayıları Sieve of Eratosthenes algoritmasını kullanarak bulunuz.
+
+Sieve of Eratosthenes Algoritması
+
+ Algoritma gerçekten bir elek mantığıyla çalışıyor. N sayısına kadar tüm asalları bulmak istediğimizde, en küçük asaldan başlayarak bu asalların tüm katları asal değil olarak işaretleniyor. N sayısına kadar tüm dizi dolaşıldığında asal değil olarak işaretlenmeyen tüm sayılar da asal oluyor.
