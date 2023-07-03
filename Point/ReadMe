@@ -1,0 +1,11 @@
+
+                                              Point Ödevi
+
+2 boyutlu düzlemde bir noktayı temsil etmek üzere Point isimli bir sınıf oluşturun. Bu sınıfa, koordinat bilgileriyle gerekli kurucu ve set/get metotlarını koyun.
+
+Oluşturulan Point nesnesinin merkeze uzaklığını ve geçilen bir başka Point nesnesine uzaklığını hesaplayan iki metot daha ekleyin.
+
+Sınıfın üzerine clone() metodu koyun ve bu metotla aynı koordinatlara sahip bir başka Point nesnesi oluşturup döndürün.
+Aynı sınıfın üzerine move(...) isimli bir başka metot koyun ve bu metot ile nesneyi, "x" ya da "y" yönünde belirtilen miktar kadar hareket ettirin.
+
+Daha sonra PointTest isimli bir başka sınıf oluşturun. Bu sınıfın main metotunda, iki tane Point nesnesi oluşturup, üzerlerinde metot çağrıları yapın.
