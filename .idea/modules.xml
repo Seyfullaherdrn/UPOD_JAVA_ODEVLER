@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsalSayi/AsalSayi.iml" filepath="$PROJECT_DIR$/AsalSayi/AsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booktype/Booktype.iml" filepath="$PROJECT_DIR$/Booktype/Booktype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciNumber/FibonacciNumber.iml" filepath="$PROJECT_DIR$/FibonacciNumber/FibonacciNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FotokopiFiyati/FotokopiFiyati.iml" filepath="$PROJECT_DIR$/FotokopiFiyati/FotokopiFiyati.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OgrenciList/OgrenciList.iml" filepath="$PROJECT_DIR$/OgrenciList/OgrenciList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point1/Point1.iml" filepath="$PROJECT_DIR$/Point1/Point1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reader/Reader.iml" filepath="$PROJECT_DIR$/Reader/Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sayilar/Sayilar.iml" filepath="$PROJECT_DIR$/Sayilar/Sayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UPOD_JAVA_ODEVLER.iml" filepath="$PROJECT_DIR$/.idea/UPOD_JAVA_ODEVLER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YildizKoy/YildizKoy.iml" filepath="$PROJECT_DIR$/YildizKoy/YildizKoy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odev1/odev1.iml" filepath="$PROJECT_DIR$/odev1/odev1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terscevir/terscevir.iml" filepath="$PROJECT_DIR$/terscevir/terscevir.iml" />
+    </modules>
+  </component>
+</project>
