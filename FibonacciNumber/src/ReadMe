@@ -1,0 +1,10 @@
+BigInteger ile Fibonacci Sayıları
+
+Fibonacci dizisi bir sayı dizisidir ve {1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, …}  şeklinde devam eden sonsuz sayılardan oluşur. Dizi, İtalyan matematikçi Leonardo Fibonacci’nin 1202 yılında yazdığı Liber Abaci (Hesap Kitabı) adlı kitabındaki bir problemin cevabıdır. Kitaptaki problem ise şöyle: Belirli bir bölgeye yeni doğmuş bir tavşan çifti (bir dişi, bir erkek) konuluyor. Her tavşan çifti ikinci aydan itibaren yetişkin hâle geliyor ve her ay yeni bir tavşan çifti (bir dişi, bir erkek) doğuruyor. Tavşanların hiç ölmediği varsayılırsa bu bölgede bir yıl sonra kaç çift tavşan olur?
+Problemin çözümünde her ay için sırasıyla 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 sayıları elde edilir.
+
+BigInteger
+
+BigInteger sınıfı, mevcut tüm ilkel veri türlerinin sınırı dışında kalan çok büyük tamsayı hesaplamaları içeren matematiksel işlemler için kullanılır.
+
+Bu şekilde, BigInteger sınıfı, geniş yöntem kitaplığı nedeniyle kullanımı çok kullanışlıdır ve rekabetçi programlamada da çokça kullanılır.
